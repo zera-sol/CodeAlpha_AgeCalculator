@@ -50,7 +50,7 @@ function calculateAge() {
         age--;
     }
 
-    document.getElementById('age').value = "You\'re" + age + " years old";
+    document.getElementById('age').value = "You\'re " + age + " years old";
 }
 
 function reset() {
